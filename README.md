@@ -1,3 +1,3 @@
 # Bakery
 Bakery Protofoloi
-https://faisalnour.github.com/Bakery/
+https://faisalnour.github.io/Bakery/
